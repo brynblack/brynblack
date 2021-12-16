@@ -25,7 +25,7 @@ Currently, I am fluent in these languages (arranged from most fluent to least fl
 - 3D Modelling
 
 ### What games do I enjoy playing?
-- Osu!
+- osu!
 - Minecraft
 - Terraria
 - Kerbal Space Program
