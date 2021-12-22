@@ -3,7 +3,7 @@ Thanks for stopping by to my profile, I really appreciate it (^◡^) <3
 
 ### Who am I?
 - I am a transgender pansexual girl :3
-- My pronouns are She/They
+- My pronouns are She/Her
 - I am currently a student
 - I have many years of experience in programming
 - I enjoy things such as gaming and 3D modelling
