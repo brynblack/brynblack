@@ -1,42 +1,50 @@
-# Hiiii ヽ(^ω^) 👋
-Thanks for stopping by to my profile, I really appreciate it (^◡^) <3
+# Haiiii ヽ(^ω^) 👋
+Thanks for stopping by to my profile, I really appreciate it (◡‿◡✿) <3
 
 ### Who am I?
 - I am a transgender pansexual girl :3
-- My pronouns are She/Her
-- I am currently a student
+- My pronouns are she/her
+- I am currently a student studying software development
 - I have many years of experience in programming
 - I enjoy things such as gaming and 3D modelling
 
 ### Programming languages I know
 Currently, I am fluent in these languages (arranged from most fluent to least fluent):
-- Python
 - C++
+- Python
+- Rust
 - HTML/CSS
 - Javascript
 - Bash
+- Lua
 - McFunction
 
 ### Things that I enjoy doing
-- Gaming
-- Video/Audio Editing
 - Programming
-- Drawing
+- Fashion
+- Gaming
 - 3D Modelling
+- Video/Audio Editing
+- Drawing
 
 ### What games do I enjoy playing?
 - osu!
 - Minecraft
 - Terraria
 - Kerbal Space Program
+- Valorant
+- CS:GO
 - Garry's Mod
 
 ### What software do I use to do everything?
 For programming I use:
-- Pycharm Professional
+- Linux <3
+- Neovide (Neovim)
 - CLion
+- Pycharm
+- Git
 - Visual Studio Code
-- Vim
+- Windows
 
 For video and audio editing I use:
 - Adobe Premiere Pro
