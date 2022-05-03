@@ -16,8 +16,8 @@ Currently, I am fluent in these languages (arranged from most fluent to least fl
 - HTML/CSS
 - Javascript
 - Bash
-- Lua
 - McFunction
+- Lua
 
 ### Things that I enjoy doing
 - Programming
