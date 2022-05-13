@@ -59,4 +59,4 @@ For 3D modelling and art I use:
 If you got this far down thank you so much for taking your time to read all of the above, it means a lot to me! (^ω^)
 
 [![Brynblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Brynblack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Brynblack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
