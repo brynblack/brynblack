@@ -43,7 +43,7 @@ For programming I use:
 - CLion
 - Pycharm
 - Git
-- Visual Studio Code
+- VSCodium
 - Windows
 
 For video and audio editing I use:
