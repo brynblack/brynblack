@@ -18,11 +18,13 @@ Currently, I am fluent in these languages (arranged from most fluent to least fl
 - McFunction
 - Lua
 
-### What software do I use to do everything?
-For programming I use:
+### What do I like?
 - Arch Linux <3
 - Neovide (Neovim)
 - VSCodium
+- Cats <3333
+- Free and open source <3
+- Spinny skirts uwu
 - Git
 
 ### My overall statistics
