@@ -11,17 +11,6 @@ Thanks for stopping by to my profile, I really appreciate it!!! (◡‿◡✿) <
 - I am currently a student studying software development
 - I have many years of experience in programming
 
-### Programming languages I know
-Currently, I am fluent in these languages (arranged from most fluent to least fluent):
-- Rust
-- C++
-- Python
-- HTML/CSS
-- Javascript
-- Bash
-- McFunction
-- Lua
-
 ### What do I like?
 - Arch Linux <3
 - Helix
