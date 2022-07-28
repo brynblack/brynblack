@@ -1,7 +1,13 @@
 # Haiiii ヽ(^ω^) 👋
 Thanks for stopping by to my profile, I really appreciate it (◡‿◡✿) <3
 
-[![Brynblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Brynblack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark" />
+</a>
 
 
 ### Who am I?
