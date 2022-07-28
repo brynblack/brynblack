@@ -1,8 +1,8 @@
 # Haiiii ヽ(^ω^) 👋
 Thanks for stopping by to my profile, I really appreciate it (◡‿◡✿) <3
 
-[![Brynblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Brynblack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Brynblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Brynblack's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Who am I?
 - I am a trans girl :3
