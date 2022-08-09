@@ -6,7 +6,7 @@ Thanks for stopping by to my profile, I really appreciate it!!! (◡‿◡✿) <
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dark"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dark"></a>
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
-[![Helix](https://img.shields.io/badge/IDE-helix-blueviolet?style=for-the-badge&logo=appveyor)](https://helix-editor.com/)
+[![Helix](https://img.shields.io/badge/IDE-helix-blueviolet?style=for-the-badge)](https://helix-editor.com/)
 
 ### Some facts about me
 - My name is Brynley
