@@ -3,7 +3,7 @@ Thanks for stopping by to my profile, I really appreciate it!!! (◡‿◡✿) <
 
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,html,css,bash,javascript,typescript,lua)](https://skillicons.dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=omni"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=omni"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=brynblack&show_icons=true&theme=dracula"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brynblack&langs_count=10&layout=compact&theme=dracula"></a>
 
 ### Some facts about me
 - My name is Brynley
