@@ -8,7 +8,7 @@ Thanks for stopping by to my profile, I really appreciate it!!! (◡‿◡✿) <
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
 [![Helix](https://img.shields.io/badge/IDE-helix-blueviolet?style=for-the-badge)](https://helix-editor.com/)
 [![Pronouns](https://img.shields.io/badge/Pronouns-she\/her-pink?style=for-the-badge)](https://en.pronouns.page/@brynblack)
-[![Profile Views](https://komarev.com/ghpvc/?username=brynblack&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Profile Views](https://komarev.com/ghpvc/?username=brynblack&style=for-the-badge&color=5bcefa)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ### Some facts about me
 - My name is Brynley
