@@ -20,6 +20,6 @@ Thanks for stopping by to my profile, I really appreciate it!!! (◡‿◡✿) <
 
 ### Some (other) less important facts about me
 - I have a very adorable cat
-- I love fashion and spinny skirts uwu
+- I love fashion and spinny skirts UwU
 - Helix is my favourite text editor
-- I use arch BTW.
+- I use arch btw :3
