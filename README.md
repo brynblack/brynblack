@@ -2,7 +2,7 @@
   <h1>Haiiii, I'm Brynley! ヽ(^ω^) 👋</h1>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/IDE-helix-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Pronouns-she\/her-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pronouns-she/her-pink?style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=brynblack&style=for-the-badge&color=5bcefa">
  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
