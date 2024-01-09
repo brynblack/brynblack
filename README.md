@@ -14,7 +14,7 @@
   </div>
   <div>
     <h2>My skills</h2>
-    <img src="https://skillicons.dev/icons?i=rust,cpp,python,html,css,bash,javascript,typescript,lua">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,python,html,css,sass,bash,lua,md,wasm,kotlin,java,actix,tailwind,nodejs,jquery,javascript,typescript,react,git,nix,linux,kubernetes,docker,grafana,prometheus,postgres,rocket,supabase,heroku">
   </div>
 </div>
 
