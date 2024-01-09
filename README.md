@@ -24,7 +24,7 @@
   <li>I am a trans girl :3</li>
   <li>My pronouns are she/her</li>
   <li>I am currently a student studying software development</li>
-  <li>I have many years of experience in programming</li>
+  <li>I have many years of experience in programming!</li>
   <li>I love free and open source &lt;3</li>
 </ul>
 <h3>Some (other) less important facts about me</h3>
