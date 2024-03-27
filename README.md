@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Haiiii, I'm Brynley! ヽ(^ω^) 👋</h1>
+  <h1>Hai, I'm Brynley! ヽ(^ω^) 👋</h1>
   <img src="https://img.shields.io/badge/NixOS-53B0FE?style=for-the-badge&logo=nixos&logoColor=white">
   <img src="https://img.shields.io/badge/IDE-helix-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pronouns-she/her-pink?style=for-the-badge">
