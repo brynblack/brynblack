@@ -13,24 +13,17 @@
     </a>
   </div>
   <div>
-    <h2>My skills</h2>
+    <h2>My skills 👩‍💻</h2>
     <img src="https://skillicons.dev/icons?i=rust,cpp,python,html,css,sass,bash,lua,md,wasm,kotlin,java,actix,tailwind,nodejs,jquery,javascript,typescript,react,git,nix,linux,kubernetes,docker,grafana,prometheus,postgres,rocket,supabase,heroku">
   </div>
+  <h3>Some facts about me :sparkles:</h3>
 </div>
 
-<h3>Some facts about me</h3>
-<ul>
-  <li>My name is Brynley</li>
-  <li>I am a trans girl :3</li>
-  <li>My pronouns are she/her</li>
-  <li>I am a student currently studying software development</li>
-  <li>I have many years of experience in programming!</li>
-  <li>I love free and open source &lt;3</li>
-</ul>
-<h3>Some (other) less important facts about me</h3>
-<ul>
-    <li>I have a very adorable cat</li>
-    <li>I love fashion and spinny skirts UwU</li>
-    <li>Helix is my favourite text editor</li>
-    <li>I use nix btw :3</li>
-</ul>
+```
+- My name is Brynley!
+- I am a trans girl :3
+- My pronouns are she/her
+- I am a student currently studying software development
+- I have many years of experience in programming!
+- I love free and open source <3<3
+```
